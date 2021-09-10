@@ -1,4 +1,4 @@
-# API type formatter
+# API typewriter
 
 This module can convert an API JSON description into TypeScript typings.
 
