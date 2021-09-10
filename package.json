@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/islandpenguin/api-typewriter/issues"
   },
-  "homepage": "https://github.com/nowak-ds/api-typewriter#readme",
+  "homepage": "https://github.com/islandpenguin/api-typewriter#readme",
   "dependencies": {
     "axios": "^0.21.4",
     "json-schema-to-typescript": "^10.1.4",
